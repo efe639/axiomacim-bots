@@ -4,7 +4,7 @@
 * Botların ilk hali acar'a ait, yardımları için teşekkür ederim.
 
 * Not: Eğer bu botları almak için geldiysen yanlış repodasın canım. Bu botlar ben ne zaman botlarımı v14'e çevirirsem.
-O zaman bu repoda olur. Star sayısına göre bu değişenlik gösterebilir
+O zaman bu repoda olur. Star sayısına göre bu değişkenlik gösterebilir
 
 
 # Hatırlatma!
@@ -15,7 +15,7 @@ O zaman bu repoda olur. Star sayısına göre bu değişenlik gösterebilir
 
 * Piyasa da dönen çoğu altyapıdan kaliteli bir altyapı. Taç hesabından banlamaya tut kısa sürede rol dağıtımına. Ekiplerde ve Publiclerde bulunan sistemlerin gelişmiş
 versiyonları mevcut.
-* Botları güncelleidkçe aşağıda yer alan görseller çoğalıcak.
+* Botları güncelledikce aşağıda yer alan görseller çoğalıcak.
 
 # Ufak Görseller
 <img src="https://cdn.discordapp.com/attachments/980446129961435136/1001851502970818600/unknown.png">
