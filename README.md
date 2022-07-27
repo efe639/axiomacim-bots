@@ -1,4 +1,4 @@
-# Selam,
+# Proje Hakkında Bilgi
 
 * Selam, github reposuna hoşgeldin. Bu repomda kullanmış olduğum botları tanıtacağım.
 * Botların ilk hali acar'a ait, yardımları için teşekkür ederim.
